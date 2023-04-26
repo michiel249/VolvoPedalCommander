@@ -17,3 +17,8 @@ write code..
 make curve in throttle signal. Happy driving
 
 DRAFT
+
+
+Refrence:
+http://excesstext.com/tag/duratec/ - C648 – Accelerator Pedal Unit (Connector pinout ford.. but same as volvo only drawn diagram i found)
+https://autotechnician.co.uk/autologic-case-study-volvo-v50-intermittent-loss-of-power/ (Connector pinout volvo v50)
