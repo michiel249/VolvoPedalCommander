@@ -27,7 +27,7 @@ DRAFT
 
 
 Refrence:
-* https://outbackjoe.com/macho-divertissement/macho-articles/sprint-booster-is-it-worth-it/ (One of the best explainations on how these devices work)
+* https://outbackjoe.com/macho-divertissement/macho-articles/sprint-booster-is-it-worth-it/ (One of the best explainations on how these devices. I also used one of his images)
 * http://www.evilution.co.uk/wp-content/uploads/info/sprintbooster/sprintbooster.pdf (Amazing in depth study)
 * http://excesstext.com/tag/duratec/ - C648 – Accelerator Pedal Unit (Connector pinout ford.. but same as volvo only drawn diagram i found)
 * https://autotechnician.co.uk/autologic-case-study-volvo-v50-intermittent-loss-of-power/ (Connector pinout volvo v50)
