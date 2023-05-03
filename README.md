@@ -14,6 +14,7 @@ I'm sure with proper tuning software you would be able to change the throttle re
 
 ## The plan:
 ![mybox](https://raw.githubusercontent.com/michiel249/VolvoPedalCommander/main/mybox.png)
+
 Take a Arduino and a MCP4725 DAC
 
 arduino + MCP4725 DAC + Volvo Gas Pedal connector Male / Female
