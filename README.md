@@ -1,8 +1,6 @@
 # Volvo Pedal Commander
 
-DRAFT
-
-Bought my car (Volvo V50 T5) second hand from a guy who had put a tune in it. This resulted in an amazing car but with a little (too) agrassive gaspedal.
+Draft: Bought my car (Volvo V50 T5) second hand from a guy who had put a tune in it. This resulted in an amazing car but with a little (too) agrassive gaspedal.
 
 Discoverd a device called "Pedal Commander" exists and by a few diffrent manufacturers: Pedal Commander, Pedal Box, Sprint Booster, 9 Drive, etc.
 Thought about buying one of those devices, but because these devices are more aimed at making the gas pedal of a car more agressive. 
@@ -15,13 +13,18 @@ I'm sure with proper tuning software you would be able to change the throttle re
 ## The plan:
 ![mybox](https://raw.githubusercontent.com/michiel249/VolvoPedalCommander/main/mybox.png)
 
-Take a Arduino, a MCP4725 DAC, Volvo Gas Pedal Male and Female connetors slap all of them together 
-
+Take a Arduino, a MCP4725 DAC, Volvo Gas Pedal Male and Female connetors slap all of them together.
 write code..
-
 make curve in throttle signal. Happy driving
 
-DRAFT
+24-07-2023:
+Working on a version 0.1 with above draft, took few hours for me to get the pedal to spit out PWM, taped it all together. 
+Wrote code that should send signals out as they come in (transparent). First challenge!
+Gas pedal pulse width modulated signal is 200hz. default PWM signal of my Arduino Nano is not.
+
+Now trying to get my arduino to spit out 200hz PWM :) it is quite a low frequency so it should be no problem
+
+
 
 
 Refrence:
