@@ -27,7 +27,6 @@ Gas pedal pulse width modulated signal is 200hz. default PWM signal of my Arduin
 Now trying to get my arduino to spit out 200hz PWM :) it is quite a low frequency so it should be no problem.
 
 26-07-2023:
-Done
 
 ![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/516eb263dda29482b0929efddea80dc824a9bf5c/200hz%20PWM.png)
 
