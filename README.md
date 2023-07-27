@@ -11,14 +11,14 @@ Made plans to make my own.
 I'm sure with proper tuning software you would be able to change the throttle remapping or something, i wanted to try this first.
 
 ## The plan:
-![mybox](https://raw.githubusercontent.com/michiel249/VolvoPedalCommander/main/mybox.png)
+![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/67492089d34f845acd16f4b26fc52be74202fe39/mybox.png)
 
 Take a Arduino, a MCP4725 DAC, Volvo Gas Pedal Male and Female connetors slap all of them together.
 write code..
 make curve in throttle signal. Happy driving
 
 24-07-2023:
-![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/be67177e9f43b9430fbaec184812794fb9618d9b/Proto01.png)
+![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/67492089d34f845acd16f4b26fc52be74202fe39/Proto01.png)
 
 Working on a version 0.1 with above draft, took few hours for me to get the pedal to spit out PWM, taped it all together. 
 Wrote code that should send signals out as they come in (transparent). First challenge!
