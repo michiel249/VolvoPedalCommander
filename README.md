@@ -18,6 +18,8 @@ write code..
 make curve in throttle signal. Happy driving
 
 24-07-2023:
+![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/be67177e9f43b9430fbaec184812794fb9618d9b/Proto01.png)
+
 Working on a version 0.1 with above draft, took few hours for me to get the pedal to spit out PWM, taped it all together. 
 Wrote code that should send signals out as they come in (transparent). First challenge!
 Gas pedal pulse width modulated signal is 200hz. default PWM signal of my Arduino Nano is not.
