@@ -24,7 +24,8 @@ Working on a version 0.1 with above draft, took few hours for me to get the peda
 Wrote code that should send signals out as they come in (transparent). First challenge!
 Gas pedal pulse width modulated signal is 200hz. default PWM signal of my Arduino Nano is not.
 
-Now trying to get my arduino to spit out 200hz PWM :) it is quite a low frequency so it should be no problem
+Now trying to get my arduino to spit out 200hz PWM :) it is quite a low frequency so it should be no problem.
+
 26-07-2023:
 Here we go.
 ![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/516eb263dda29482b0929efddea80dc824a9bf5c/200hz%20PWM.png)
