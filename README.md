@@ -37,7 +37,7 @@ TODO:
 - Readme Spelling
 - Readme split / worklog
 - Upload code
-- 
+- Upload schematic
 
 
 Refrence:
