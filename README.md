@@ -34,7 +34,10 @@ Here we go.
 ![PWM](https://github.com/michiel249/VolvoPedalCommander/blob/516eb263dda29482b0929efddea80dc824a9bf5c/200hz%20PWM.png)
 
 TODO:
--test
+- Readme Spelling
+- Readme split / worklog
+- Upload code
+- 
 
 
 Refrence:
