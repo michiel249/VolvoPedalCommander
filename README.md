@@ -25,6 +25,9 @@ Wrote code that should send signals out as they come in (transparent). First cha
 Gas pedal pulse width modulated signal is 200hz. default PWM signal of my Arduino Nano is not.
 
 Now trying to get my arduino to spit out 200hz PWM :) it is quite a low frequency so it should be no problem
+26-07-2023:
+Here we go.
+![mybox](https://github.com/michiel249/VolvoPedalCommander/blob/516eb263dda29482b0929efddea80dc824a9bf5c/200hz%20PWM.png)
 
 p.s. Just realized this probably is going to introduce a 0.005+ second delay in from receiving the signal to sending. Outback Joe mentioned these devices always have the drawback of adding some delay. This is that with the addition of needing to calculats a new signal.
 
