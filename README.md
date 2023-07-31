@@ -33,10 +33,11 @@ Here we go.
 
 ![PWM](https://github.com/michiel249/VolvoPedalCommander/blob/516eb263dda29482b0929efddea80dc824a9bf5c/200hz%20PWM.png)
 
-31-07-2023
+31-07-2023:
 Ok. Apparently, the mismatched frequency wasn't the only problem. After trying out my new quite stable 200 Hz signal, it was still not recognized by my car. Then i realized that my Arduino's PWM is meant to drive LEDs and pulse its own 5v to the car. The original pedal on the other hand pulls down the 5v fed by the car to ground in PW-modulated pulses.
 
-So. im have now wired a transistor up, and I am switching ground with that.
+So. version 0.2 i have now wired a transistor up, and I am switching ground with that.
+
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/633804b591a6f0d90e14bbc1c9fb95017c5e069f/VolvoPedalCommander_Schema.png)
 
 REPO TODO:
