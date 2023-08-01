@@ -38,7 +38,7 @@ Ok. Apparently, the mismatched frequency wasn't the only problem. After trying o
 
 So. version 0.2 i have now wired a transistor up, and I am switching ground with that.
 
-![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/633804b591a6f0d90e14bbc1c9fb95017c5e069f/VolvoPedalCommander_Schema.png)
+![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
 
 REPO TODO:
 - Readme Spelling
