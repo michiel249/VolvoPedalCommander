@@ -52,6 +52,12 @@ REPO TODO:
 - ~~Upload schematic~~
 - Organize files
 
+- [ ] Readme Spelling
+- [ ] Readme split / worklog
+- [ ] Upload code
+- [x] Upload schematic
+- [ ] Organize files
+
 
 Refrence:
 * https://www.maxxecu.com/webhelp/wirings-e_pedals.html (pinout)
