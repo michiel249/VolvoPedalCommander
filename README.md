@@ -50,6 +50,7 @@ I wanted to try the thing that everybody is doing these days and asked uncle Cha
 
 So i grabbed the datasheet and a cup of tea.
 ![Timer1](https://github.com/michiel249/VolvoPedalCommander/blob/fe66807f47272755e7b34eecd37c89276b0a8e4d/Timer1.png)
+
 It took me a few hours, but I can do some simple things with timers now. 
 
 
