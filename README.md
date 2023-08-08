@@ -43,6 +43,15 @@ Finally got the time to test version 0.2 in my car. it works perfectly! Next, I 
 
 03-08-2023: Did not much. Worked out i'm going to use "y = (x^i) / (255^(i-1))" where x is input between 0 and 255 in and i is a exponent to change the curve. - [Demo Graph](https://www.desmos.com/calculator/wxqdl0oarm)
 
+08-08-2023
+Rewriting some things before i want to continue, i'm now using libraries for pulse length measurement using interrupts because the Arduino pulsein() function uses delay, and was using a library to help with setting Timer1 at the desired frequency.
+
+I wanted to try the thing that everybody is doing these days and asked uncle Chat-GPT to come up with code for me to set up Timer1 for a given frequency. this gave mixed results. most of them wrong.
+
+So i grabbed the datasheet and a cup of tea,
+It took me a few hours, but I can do some simple things with timers now. 
+
+
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
 
 REPO TODO:
