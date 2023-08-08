@@ -49,8 +49,8 @@ Rewriting some things before i want to continue, i'm now using libraries for pul
 I wanted to try the thing that everybody is doing these days and asked uncle Chat-GPT to come up with code for me to set up Timer1 for a given frequency. this gave mixed results. most of them wrong.
 
 So i grabbed the datasheet and a cup of tea.
-  ![Timer1](https://github.com/michiel249/VolvoPedalCommander/blob/fe66807f47272755e7b34eecd37c89276b0a8e4d/Timer1.png)<
-It took me a few hours, but I can do some simple things with timers now. 
+  ![Timer1](https://github.com/michiel249/VolvoPedalCommander/blob/fe66807f47272755e7b34eecd37c89276b0a8e4d/Timer1.png)
+  It took me a few hours, but I can do some simple things with timers now. 
 
 
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
