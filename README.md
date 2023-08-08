@@ -54,7 +54,7 @@ So i grabbed the datasheet and a cup of tea.
 
 It took me a few hours, but I can do some simple things with timers now. 
 
-
+## Schematic:
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
 
 REPO TODO:
