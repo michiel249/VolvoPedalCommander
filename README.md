@@ -55,7 +55,10 @@ So i grabbed the datasheet and a cup of tea.
 It took me a few hours, but I can do some simple things with timers now. 
 
 11-08-2023:
-Pluse length measurement was easy to setup but while doing this i csme to the conclusion that Micros() a function in arduino that returns microseconds is not so super acurate, so tought with my new aquired knowledge about timers that it would be easy to setup a time source with a bit more accuracy. i found it quite challanging.
+Pluse length measurement was easy to setup but while doing this i csme to the conclusion that Micros() a function in arduino that returns microseconds is not so super acurate, so tought with my new aquired knowledge about timers that it would be easy to setup a time source with a bit more accuracy. i found it quite challanging. but in the end it worked out. With help of eRCaGuy and Nick Gammon.
+
+12-08-2023:
+Code cleanup!
 
 ## Schematic:
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
@@ -63,7 +66,7 @@ Pluse length measurement was easy to setup but while doing this i csme to the co
 REPO TODO:
 - Readme Spelling
 - Readme split / worklog
-- Upload code
+- ~~Upload code~~
 - ~~Upload schematic~~
 - Organize files
 
