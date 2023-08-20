@@ -62,6 +62,7 @@ Code cleanup!
 
 ## Schematic:
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
+NOTE!: The 2 resistors in this schematic are both 1kohm
 
 REPO TODO:
 - Readme Spelling
