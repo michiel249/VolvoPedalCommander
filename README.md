@@ -62,6 +62,7 @@ With help of eRCaGuy and Nick Gammon.
 Code cleanup!
 
 22-08-2023:
+![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/51cd834f4750688f655a23c55764aef91c8d613c/PCB1.png)
 The last few afternoons I've spent soldering, and I'm quite pleased with the result. In previous projects, I connected everything by bundling wires. For this, I decided I wanted to try a prototyping PCB.
 
 ## Schematic:
