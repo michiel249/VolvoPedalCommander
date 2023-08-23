@@ -37,6 +37,7 @@ Here we go.
 Ok. Apparently, the mismatched frequency wasn't the only problem. After trying out my new quite stable 200 Hz signal, it was still not recognized by my car. Then i realized that my Arduino's PWM is meant to drive LEDs and pulse its own 5v to the car. The original pedal on the other hand pulls down the 5v fed by the car to ground in PW-modulated pulses.
 
 So. version 0.2 i have now wired a transistor up, and I am switching with that.
+
 ![Transistor](https://github.com/michiel249/VolvoPedalCommander/blob/81d274e0f2aa045599eaae22ea198099ce82ddd0/transistor_switch.png)
 
 02-08-2023:
