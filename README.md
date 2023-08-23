@@ -37,7 +37,7 @@ Here we go.
 Ok. Apparently, the mismatched frequency wasn't the only problem. After trying out my new quite stable 200 Hz signal, it was still not recognized by my car. Then i realized that my Arduino's PWM is meant to drive LEDs and pulse its own 5v to the car. The original pedal on the other hand pulls down the 5v fed by the car to ground in PW-modulated pulses.
 
 So. version 0.2 i have now wired a transistor up, and I am switching ground with that.
-![Transistor](https://github.com/michiel249/VolvoPedalCommander/blob/c4a94d37d27c1e0bca58b320acd3dfdb95fab586/transistor_switch.png)
+![Transistor](https://github.com/michiel249/VolvoPedalCommander/blob/81d274e0f2aa045599eaae22ea198099ce82ddd0/transistor_switch.png)
 
 02-08-2023:
 Finally got the time to test version 0.2 in my car. it works perfectly! Next, I may need to do some calibration of the DAC voltage and when I'm at it i will also look at the duty cycle. If I'm happy with those I will start trying with some adjusted numbers i think. Also thinking about soldering it all up and putting it in a nice box first. Driving with a breadboard on your floor mat?
