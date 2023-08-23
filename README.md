@@ -61,7 +61,7 @@ Pluse length measurement was easy to setup but while doing this i csme to the co
 With help of eRCaGuy and Nick Gammon.
 
 12-08-2023:
-Code cleanup!
+Code uploaded. Could be better.
 
 22-08-2023:
 The last few afternoons I've spent soldering, and I'm quite pleased with the result. In previous projects, I connected everything by bundling wires. For this, I decided I wanted to try a prototyping PCB.
