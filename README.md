@@ -63,12 +63,18 @@ With help of eRCaGuy and Nick Gammon.
 Code cleanup!
 
 22-08-2023:
-![PCB](https://github.com/michiel249/VolvoPedalCommander/blob/9f8943062a51efd226aa017b8f3bc35080b2ab93/PCB1.png)
 The last few afternoons I've spent soldering, and I'm quite pleased with the result. In previous projects, I connected everything by bundling wires. For this, I decided I wanted to try a prototyping PCB.
+![PCB](https://github.com/michiel249/VolvoPedalCommander/blob/9f8943062a51efd226aa017b8f3bc35080b2ab93/PCB1.png)
+
+23-08-2023:
+Above picture was already updated yesterday evening after i spotted a missed wire when that was fixed and i was enjoying the new picture i saw a missed hooking up ground somewhere. but it was to late to fix it. today i heated my soldering iron up once more and connected what i thought must be the last thing and went on testing! quickly discoverd another connection i missed but at last it all worked out. i now have a working pcb.
+
+i even took a drive around the block for the first time!
+
 
 ## Schematic:
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
-NOTE!: The 2 resistors in this schematic are both 1kohm
+NOTE!: The 2 resistors in this schematic are both 1kohm | My proto PCB also has a pulled down Switch conneted to D3 (not used in code a.t.m.)
 
 REPO TODO:
 - Readme Spelling
