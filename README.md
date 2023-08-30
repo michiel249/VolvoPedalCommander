@@ -72,6 +72,12 @@ Above picture was already updated yesterday evening after i spotted a missed wir
 
 i even took a drive around the block for the first time!
 
+30-08-2023:
+another week of not doing much. last time i tried to finish the prototype by implementing the formula i had in mind and when this didnt work first try as i lost motivation for a few days.
+the pedal in my car never goes to 0% or 100%. maybe the padal does but the signal does not. it stays between 7-88%~. applying my exponential curve to a value of 7 results in a value lower then 7. vice versa with 88. 
+so i needed to treat the diffrence between 7 and 88 as my range
+
+
 
 ## Schematic:
 ![Schematic](https://github.com/michiel249/VolvoPedalCommander/blob/61bcd3356c9bc5942a8e3b6c8b27a815e094d3e8/VolvoPedalCommander_Schema.png)
