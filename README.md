@@ -76,6 +76,7 @@ i even took a drive around the block for the first time!
 another week of not doing much. last time i tried to finish the prototype by implementing the formula i had in mind and when this didnt work first try as i lost motivation for a few days.
 the pedal in my car never goes to 0% or 100%. maybe the padal does but the signal does not. it stays between 8-88%~. applying my exponential curve to a value of 7 results in a value lower then 7. vice versa with 88. 
 so i needed to treat the diffrence between 7 and 88 as my range
+
 ![minmax](https://github.com/michiel249/VolvoPedalCommander/blob/b007aa514d4e89115fff4e114780cdf1eb8a7527/minmaxpedal.png)
 
 
